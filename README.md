@@ -1,3 +1,3 @@
 # Public Profile of QuIC lab
 
-Do not post anything private!!!
+Members-only Profile is [here](https://github.com/kaist-quic)

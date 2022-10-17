@@ -1,11 +1,20 @@
 # Welcome to Quantum Information & Communication Lab
 
+This is a public profile page of QUIC lab. Go to [Members-Only Profile](https://github.com/kaist-quic) for more information.
+
+## Research Highlights
+
+| Year | Title | Authors | Conference / Journal / Patent | Link |
+| --- | --- | --- | --- | --- |
+[ ] TODO: Update research highlights
+
 ## Members Contact
 
 | Name  | Email  | Github Handle  | Title  |
 |--------- |--------- |------ | ----- |
 |June-Koo Kevin Rhee| rhee.jk@kaist.ac.kr | @rheejk84 | Professor |
 |Siheon Park    |sihoney97@kaist.ac.kr| @Siheon-Park | Master Student |
+[ ] TODO: Update members contact
 
 ## Tips for Quantum Computing Research
 
