@@ -31,5 +31,5 @@
 
 ### Manuals
 
-- [How to install `python`/`anaconda`](profile/Manuals/python.md)
-- [How to use GPU acceleration](profile/Manuals/gpu-acc.md)
+- [How to install `python`/`anaconda`](Manuals/python.md)
+- [How to use GPU acceleration](Manuals/gpu-acc.md)
