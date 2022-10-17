@@ -44,3 +44,4 @@ This is a public profile page of QUIC lab. Go to [Members-Only Profile](https://
 
 - [How to install `python`/`anaconda`](Manuals/python.md)
 - [How to use GPU acceleration](Manuals/gpu-acc.md)
+- [Accessing KAIST VPN](https://rd.kaist.ac.kr/KAIST_VPN_User_Mannual_%5BENG%5D.pdf)
