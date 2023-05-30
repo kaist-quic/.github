@@ -6,6 +6,7 @@ This is a public profile page of QUIC lab. Go to [Members-Only Profile](https://
 
 | Year | Title | Authors | Conference / Journal / Patent | Link |
 | --- | --- | --- | --- | --- |
+|2023 | Variational quantum approximated support vector machine with inference transfer | Park, S., Park, D.K. & Rhee, JK.K. | Sci Rep | https://doi.org/10.1038/s41598-023-29495-y |
 
 - [ ] TODO: Update research highlights
 
